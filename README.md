@@ -55,3 +55,12 @@ cd frontend
 npm run dev
 ```
 
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+The login page allows user to authenticate with their email and password. After logging in, users are directed to the dashboard.
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+The dashboard shows real-time positions of all robots on the map, live updates, status indicators, and positions. This is a protected page, therefore user can not access it without login.
